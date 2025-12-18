@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# API Keys and Credentials
+kaggle.json
+*.key
+.env
+.env.local
+
+# Large Dataset Files
+data/
+*.zip
+
+# Model Files (too large for GitHub)
+models/*.h5
+models/*.pb
+models/*.pkl
+models/*.pt
+models/*.pth
+models/*.ckpt
+
+# Results (optional - uncomment if you don't want to track results)
+# results/
+# *.png
+# *.jpg
+# *.jpeg
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Database files
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
