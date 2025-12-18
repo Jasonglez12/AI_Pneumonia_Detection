@@ -42,5 +42,5 @@ Run notebooks from the project root in order:
 
 ## Notes
 - All plots saved at 300 DPI in `results/`.
-- GPU (e.g., RTX 3070 Ti) recommended; expected training time ~30–60 minutes per model.
+- GPU (e.g., RTX 3070 Ti - 5060ti) recommended; expected training time ~30–60 minutes per model.
 
