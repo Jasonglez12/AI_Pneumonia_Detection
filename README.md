@@ -33,11 +33,11 @@ Run notebooks from the project root in order:
 - Callbacks: ModelCheckpoint (best val_loss) and EarlyStopping (patience=3)
 - Epochs: 10; Batch size: 32
 
-## Results (fill after training)
+## Results
 | Model   | Accuracy | Precision | Recall | F1-score |
 |---------|----------|-----------|--------|----------|
-| ResNet50|          |           |        |          |
-| VGG16   |          |           |        |          |
+| ResNet50| 62.5%    | 62.5%     | 100.0% | 76.9%    |
+| VGG16   | 82.7%    | 81.5%     | 93.6%  | 87.1%    |
 
 ## Notes
 - All plots saved at 300 DPI in `results/`.
