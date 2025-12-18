@@ -1,4 +1,5 @@
 # Pneumonia Detection with Transfer Learning (CECS 456)
+# By: Jason Gonzalez & Aiden Lucero
 
 Pneumonia detector built on the Kaggle Chest X-Ray dataset using two transfer learning models: ResNet50 and VGG16. Trains, evaluates, and compares both models; produces plots and saved weights for submission.
 
